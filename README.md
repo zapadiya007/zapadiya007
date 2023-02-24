@@ -40,10 +40,9 @@ Feel free to connect with me here:
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zapadiya007&count_private=true&show_icons=true&include_all_commits=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=zapadiya007&count_private=true&show_icons=true&include_all_commits=true) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zapadiya007.zapadiya007)
 ![Profile last updated](https://img.shields.io/github/last-commit/zapadiya007/zapadiya007/master?label=Last%20updated&style=flat)
