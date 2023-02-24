@@ -39,7 +39,7 @@ Feel free to connect with me here:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007&)
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=zapadiya007&count_private=true&show_icons=true&include_all_commits=true) -->
 
