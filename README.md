@@ -46,3 +46,4 @@ Feel free to connect with me here:
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007&)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zapadiya007.zapadiya007)
+![Profile last updated](https://img.shields.io/github/last-commit/zapadiya007/zapadiya007/master?label=Last%20updated&style=flat)
