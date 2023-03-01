@@ -1,4 +1,4 @@
-## Fancy seeing you here!
+# Fancy seeing you here!
 
 I am Ashish Zapadiya
 
@@ -7,6 +7,24 @@ Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-zapadiya007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zapadiya007/)](https://www.linkedin.com/in/zapadiya007/)
 [![Instagram Badge](https://img.shields.io/badge/-ashish_zapadiya_007-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ashish_zapadiya_007/)](https://instagram.com/ashish_zapadiya_007)
 [![Gmail Badge](https://img.shields.io/badge/-zapadiya0070@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zapadiya0070@gmail.com)](mailto:zapadiya0070@gmail.com)
+
+## ⚡ Competitive Programming
+
+##### LeetCode :
+![Name](https://badges.peiyuan.ch/leetcode/zapadiya007/name)
+
+[![Solved](https://badges.peiyuan.ch/leetcode/zapadiya007/solved?logo=leetcode)](https://leetcode.com/zapadiya007)
+[![Ranking](https://badges.peiyuan.ch/leetcode/zapadiya007/ranking?label=Ranking&logo=leetcode)](https://leetcode.com/zapadiya007)
+
+![](https://badges.peiyuan.ch/leetcode/zapadiya007/rate)
+![](https://badges.peiyuan.ch/leetcode/zapadiya007/rate?difficulty=easy)
+![](https://badges.peiyuan.ch/leetcode/zapadiya007/rate?difficulty=medium)
+![](https://badges.peiyuan.ch/leetcode/zapadiya007/rate?difficulty=hard)
+
+
+##### CodeChef :
+[![Badge](https://cp-logo.vercel.app/codechef/zapadiya_007?color=orange&logo=true)](https://www.codechef.com/users/zapadiya_007)
+
 
 ## ⚡ Technologies
 
@@ -39,9 +57,10 @@ Feel free to connect with me here:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact)
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=zapadiya007&count_private=true&show_icons=true&include_all_commits=true) -->
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zapadiya007.zapadiya007)
 ![Profile last updated](https://img.shields.io/github/last-commit/zapadiya007/zapadiya007/master?label=Last%20updated&style=flat)
