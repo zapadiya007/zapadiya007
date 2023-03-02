@@ -63,7 +63,7 @@ I am committed to developing my skills and making a positive impact in the field
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact" alt="Top Langs">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007" alt="Streak Stats" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007&theme=dark" alt="Streak Stats" width="50%">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact&theme=dark" alt="Top Langs" width="30%">  
 
 <!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007&)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact)
