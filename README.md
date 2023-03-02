@@ -1,8 +1,13 @@
 # Fancy seeing you here!
 
-I am Ashish Zapadiya
+I am Ashish Zapadiya, a dedicated student pursuing a Bachelor of Engineering degree from Gujarat Technological University. 
 
-Feel free to connect with me here:
+With a strong interest in web development, app development, and open-source projects, I enjoy exploring new technologies and taking on challenging projects. Outside of my studies, I participate in hackathons, coding competitions, and contribute to open-source projects. 
+
+I am committed to developing my skills and making a positive impact in the field of computer engineering.
+
+
+##### Feel free to connect with me here :
 
 [![Linkedin Badge](https://img.shields.io/badge/-zapadiya007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zapadiya007/)](https://www.linkedin.com/in/zapadiya007/)
 [![Instagram Badge](https://img.shields.io/badge/-ashish_zapadiya_007-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ashish_zapadiya_007/)](https://instagram.com/ashish_zapadiya_007)
@@ -57,9 +62,13 @@ Feel free to connect with me here:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007&)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007" alt="Streak Stats" width="420">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact" alt="Top Langs" width="300">
+
+<!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zapadiya007&)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapadiya007&hide=TeX&layout=compact)
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=zapadiya007&count_private=true&show_icons=true&include_all_commits=true) -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zapadiya007&count_private=true&show_icons=true&include_all_commits=true) -->
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zapadiya007.zapadiya007)
