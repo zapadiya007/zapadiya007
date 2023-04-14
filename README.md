@@ -9,10 +9,10 @@ I am committed to developing my skills and making a positive impact in the field
 
 ##### Feel free to connect with me here :
 
-[![Linktree](https://img.shields.io/badge/-zapadiya007-brightgreen?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/zapadiya007)](https://linktr.ee/zapadiya007)
+[![Linktree](https://img.shields.io/badge/-Linktree_Profile-brightgreen?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/zapadiya007)](https://linktr.ee/zapadiya007)
 
-[![Linkedin Badge](https://img.shields.io/badge/-zapadiya007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zapadiya007/)](https://www.linkedin.com/in/zapadiya007/)
-[![Instagram Badge](https://img.shields.io/badge/-ashish_zapadiya_007-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ashish_zapadiya_007/)](https://instagram.com/ashish_zapadiya_007)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-zapadiya007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zapadiya007/)](https://www.linkedin.com/in/zapadiya007/)
+[![Instagram Badge](https://img.shields.io/badge/-ashish_zapadiya_007-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ashish_zapadiya_007/)](https://instagram.com/ashish_zapadiya_007) -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-zapadiya0070@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zapadiya0070@gmail.com)](mailto:zapadiya0070@gmail.com) -->
 
 ## ⚡ Competitive Programming
